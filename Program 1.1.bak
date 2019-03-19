@@ -1,0 +1,9 @@
+// ini contoh pertama ini contoh
+#include <iostream.h>
+#include <conio.h>
+
+main () {
+cout<<"\n Mari belajar bersama";
+cout<<" Membuat Program Sederhana\n";
+cout<<"\n Dengan bahasa c++\n";
+getch();}
